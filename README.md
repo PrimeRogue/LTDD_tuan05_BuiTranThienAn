@@ -1,13 +1,13 @@
 # LTDD_tuan05_BuiTranThienAn
-##1. Login
-![](demos/1.png)
-![](/demos/2.png)
+#1. Login
+![](demos/1.PNG)
+![](demos/2.PNG)
 
-##2. Add Image
-![](/demos/3.png)
+#2. Add Image
+![](demos/3.PNG)
 
-##4. Password Generator
-![](/demos/4.png)
+#3. Password Generator
+![](demos/4.PNG)
 
-##5. Order
-![](/demos/5.png)
+#4. Order
+![](demos/5.PNG)
